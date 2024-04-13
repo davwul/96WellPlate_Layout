@@ -2,4 +2,4 @@
 Created an easy to use program to generate images of layouts for 96-well plate experiments in the lab
 
 
-![How it looks when printed:](plot.jpg)
+<img src="plot.png" alt="Example" width="200"/>
