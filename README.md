@@ -9,5 +9,7 @@ Features that will be implemented in the future:
 * Generate Excel file with Labels for each Well ID
 * Even better looking GUI...
 
-**Example**
+**Example**\n
+
+
 <img src="plot.jpg" alt="How it looks when printed:" width="800"/>
